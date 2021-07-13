@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "tinder-clone-a7892",
+    "production": "tinder-clone-new-865e9",
+    "deployment": "tinder-clone-new-865e9"
+  }
+}
